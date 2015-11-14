@@ -1,0 +1,136 @@
+body {
+    background-color:#E6E6FA;
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+	font-size:12pt;
+	font-weight: normal;
+	color: black;
+}
+h1 {
+	color: black;
+    font-size:25pt;
+	font-weight: bold;
+}
+h2 {
+	color: black;
+    font-size:22pt;
+	font-weight: bold;
+}
+h3 {
+	color: black;
+    font-size:18pt;
+	font-weight: bold;
+}
+h4 {
+	color: black;
+    font-size:14pt;
+	font-weight: bold;
+}
+li, .leftalign{	
+	text-align: left;
+}
+.footer {
+	background-color: #080808;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px 4px 0px 0px;
+	margin-left: auto;
+    margin-right: auto;
+}
+.header {
+	background-color: #080808;
+    color: white;
+    border-radius: 0px 0px 4px 4px;
+	margin-left: auto;
+    margin-right: auto;
+}
+table{
+	margin-left: auto;
+    margin-right: auto;
+}
+iframe{
+	border: 0px;
+	overflow: hidden;
+}
+iframe#auto, #contact{
+	width: 100%;
+}
+nav {
+	font-family: 'Orbitron', sans-serif;
+	font-weight: bold;
+}
+
+.img-responsive{
+	float: none;
+	margin: 0 auto;
+}
+.rightAllign{
+	text-align: right;
+}
+.leftAllign{
+	text-align: left;
+}
+.closed{
+	color: red;
+}
+.closedNotes{
+	color: #A01010;
+}
+.bold{
+	font-weight: bold;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+.center {
+    width: 99%;
+    margin: 0 auto;
+}
+h1-img{
+	margin:5px;
+	font-size:30pt;
+	text-align:center;
+	text-shadow:1px 1px 1px #00248F;
+	padding-bottom:10px;
+	line-height:40px;
+}
+h1-img span{
+	font-size:12pt;
+	display:block;
+	color:#00248F;
+	line-height:14px;
+	padding-top:10px;
+	text-shadow:none;
+}
+.content{
+	margin:0px 25px 30px 25px;
+}
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:4px !important; 
+    padding-bottom:0 !important;
+    height: 32px;
+}
+.navbar {min-height:32px !important;}
+.emaillink {
+    bottom: 0;
+    left: 90%;
+    right: 90%;
+    text-align: center;
+	background-color: red;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 4px 4px;
+	font-size:16pt;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+.textcenter {
+	text-align: center;
+}
