@@ -1,0 +1,3 @@
+[submodule "api/galleria"]
+	path = api/galleria
+	url = https://github.com/aino/galleria
